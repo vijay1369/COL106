@@ -1,1 +1,1 @@
-# COL106
+# COL106-Data-Structures-and-Algorithms
